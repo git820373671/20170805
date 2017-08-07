@@ -1,0 +1,65 @@
+@import "color";
+
+* {
+  box-sizing: border-box;
+  outline: none;
+  color: @color-3;
+}
+
+body {
+  background: @color-f0;
+}
+
+body, html, #app {
+  height: 100%;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.clear {
+  clear: both;
+  &:after {
+    display: block;
+    clear: both;
+    height: 0;
+  }
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.m-t-20 {
+  margin-top: 20px;
+}
+
+.m-l-r-20 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.img-box {
+  width: 100%;
+  > img {
+    display: block;
+    width: 100%;
+  }
+}
+
+.menu-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: @color-f;
+  box-shadow: 0 5px 10px @mask-b-1;
+}
+
+@import "login";
+@import "index";
