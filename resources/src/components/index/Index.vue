@@ -9,10 +9,12 @@
       <div class="main-top">
         <Row :gutter="20">
           <Col span="8">
+          <router-link :to="'/onDuty.html'">
           <div class="img-box">
             <img src="../../assets/images/icon1.jpg"/>
           </div>
           <p>今日值班</p>
+          </router-link>
           </Col>
           <Col span="8">
           <div class="img-box">

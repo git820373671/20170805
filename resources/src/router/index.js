@@ -8,6 +8,8 @@ import '../assets/css/newIview.css'
 import Index from '../components/index/Index'
 // /*login*/
 import Login from '../components/login/Login'
+// 今日值班
+import OnDuty from '../components/onDuty/OnDuty'
 
 Vue.use(Iview)
 Vue.use(Router)
@@ -21,10 +23,16 @@ export default new Router({
       component: Index
     },
     {
-      // /*account*/
+      // 登陆
       path: '/login.html',
       name: 'Login',
       component: Login
+    },
+    {
+      // 今日值班
+      path: '/onDuty.html',
+      name: 'OnDuty',
+      component: OnDuty
     }
   ]
 })
