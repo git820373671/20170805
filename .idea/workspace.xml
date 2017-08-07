@@ -18,80 +18,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/popper.js/popperjs.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/semver.browser.js.gz" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/semver.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/Makefile.deps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/Makefile.targ" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/examples/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/jsl.node.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/lib/extsprintf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extsprintf/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fancy-log/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fancy-log/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fancy-log/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fancy-log/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/find-index/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/find-index/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/find-index/last.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/find-index/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/findup-sync/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/findup-sync/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/findup-sync/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fined/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fined/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fined/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fined/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/first-chunk-stream/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/first-chunk-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/first-chunk-stream/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/lib/reorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/lib/respawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/test/bin/exit_code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/test/bin/respawner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/test/bin/signal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/flagged-respawn/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-own/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-own/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-own/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-own/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/forever-agent/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/forever-agent/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/forever-agent/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/forever-agent/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/License" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-exists-sync/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-exists-sync/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-exists-sync/index.js" />
@@ -3414,7 +3340,7 @@
       <workItem from="1502068871960" duration="4091000" />
       <workItem from="1502077041618" duration="8867000" />
       <workItem from="1502088551918" duration="2703000" />
-      <workItem from="1502092780597" duration="781000" />
+      <workItem from="1502092780597" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="登录界面">
       <created>1502071644204</created>
@@ -3458,11 +3384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502093541527</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="app 首页">
+      <created>1502093623555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502093623555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20303000" />
+    <option name="totallyTimeSpent" value="20343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
