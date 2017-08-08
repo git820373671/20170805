@@ -1,0 +1,14 @@
+{
+  "code": "1",
+  "result": {
+    "success": true,
+    "repair": {
+      "name": "王某某",
+      "card": "003",
+      "post": "PE值班",
+      "department": "维修工程部",
+      "info1": "static/data/img/img.jpg",
+      "info2": "static/data/img/img.jpg"
+    }
+  }
+}

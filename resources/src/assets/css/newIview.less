@@ -56,10 +56,46 @@ img {
   position: fixed;
   top: 0;
   left: 0;
+  z-index: 10;
   width: 100%;
+  height: 45px;
   background: @color-f;
   box-shadow: 0 5px 10px @mask-b-1;
+  line-height: 45px;
+  > .left-icon {
+    position: relative;
+    z-index: 1;
+    display: block;
+    float: left;
+    width: 50px;
+    text-align: center;
+    font-size: 28px;
+  }
+  > h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+  }
+  > .right-icon {
+    display: block;
+    float: right;
+    width: 50px;
+    text-align: center;
+    font-size: 28px;
+    ul {
+      text-align: left;
+    }
+  }
 }
 
 @import "login";
 @import "index";
+@import "duty";
+@import "repair";
+@import "news";

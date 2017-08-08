@@ -1,0 +1,78 @@
+.duty-box {
+  width: 90%;
+  margin: 70px auto 0 auto;
+  > li {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 160px;
+    background: url("../images/duty3.jpg") center no-repeat;
+    background-size: 100%;
+    &.day {
+      background: url("../images/duty1.jpg") center no-repeat;
+      background-size: 100%;
+    }
+    &.night {
+      background: url("../images/duty2.jpg") center no-repeat;
+      background-size: 100%;
+    }
+    h5 {
+      font-size: 17px;
+      font-weight: 400;
+      color: @color-f;
+      line-height: 35px;
+    }
+    .duty-info {
+      padding-top: 10px;
+      font-size: 12px;
+      line-height: 24px;
+      p {
+        color: @color-f;
+      }
+    }
+    .day-icon {
+      position: absolute;
+      top: 25px;
+      right: 25px;
+      border: solid 1px @mask-f-3;
+      padding: 2px 10px;
+      color: @color-f;
+    }
+    .tel {
+      position: absolute;
+      right: 15px;
+      bottom: 20px;
+      width: 20%;
+    }
+  }
+}
+
+.do-tel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  width: 100%;
+  height: 100%;
+  padding-top: 50%;
+  background: @mask-b-6;
+  .do-tel-icon {
+    width: 50%;
+    float: left;
+    > img {
+      display: block;
+      width: 50%;
+    }
+    &:nth-child(1) {
+      img {
+        float: right;
+        margin-right: 10%;
+      }
+    }
+    &:nth-child(2) {
+      img {
+        margin-left: 10%;
+      }
+    }
+  }
+}

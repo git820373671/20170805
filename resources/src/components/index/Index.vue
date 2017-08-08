@@ -10,17 +10,20 @@
         <Row :gutter="20">
           <Col span="8">
           <router-link :to="'/onDuty.html'">
-          <div class="img-box">
-            <img src="../../assets/images/icon1.jpg"/>
-          </div>
-          <p>今日值班</p>
+            <div class="img-box">
+              <img src="../../assets/images/icon1.jpg"/>
+            </div>
+            <p>今日值班</p>
           </router-link>
           </Col>
           <Col span="8">
-          <div class="img-box">
-            <img src="../../assets/images/icon2.jpg"/>
-          </div>
-          <p>维修资质</p></Col>
+          <router-link :to="'/repair.html'">
+            <div class="img-box">
+              <img src="../../assets/images/icon2.jpg"/>
+            </div>
+            <p>维修资质</p>
+          </router-link>
+          </Col>
           <Col span="8">
           <div class="img-box">
             <img src="../../assets/images/icon3.jpg"/>

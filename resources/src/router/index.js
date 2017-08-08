@@ -10,6 +10,8 @@ import Index from '../components/index/Index'
 import Login from '../components/login/Login'
 // 今日值班
 import OnDuty from '../components/onDuty/OnDuty'
+// 维修资质
+import Repair from '../components/repair/Repair'
 
 Vue.use(Iview)
 Vue.use(Router)
@@ -33,6 +35,12 @@ export default new Router({
       path: '/onDuty.html',
       name: 'OnDuty',
       component: OnDuty
+    },
+    {
+      // 维修资质
+      path: '/repair.html',
+      name: 'Repair',
+      component: Repair
     }
   ]
 })
