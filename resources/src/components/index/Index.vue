@@ -1,9 +1,11 @@
 <template>
   <div class="index">
     <div class="header img-box"><img src="../../assets/images/indexBg.jpg"/>
-      <div class="tips">
-        <Badge count="10" overflow-count="99"></Badge>
-      </div>
+      <router-link :to="'/news.html'">
+        <div class="tips">
+          <Badge count="10" overflow-count="99"></Badge>
+        </div>
+      </router-link>
     </div>
     <div class="main">
       <div class="main-top">
@@ -40,10 +42,13 @@
           <p>部门发文</p>
           </Col>
           <Col span="12">
-          <div class="img-box">
-            <img src="../../assets/images/icon5.jpg"/>
-          </div>
-          <p>制度表格</p></Col>
+          <router-link :to="'/system.html'">
+            <div class="img-box">
+              <img src="../../assets/images/icon5.jpg"/>
+            </div>
+            <p>制度表格</p>
+          </router-link>
+          </Col>
         </Row>
       </div>
     </div>

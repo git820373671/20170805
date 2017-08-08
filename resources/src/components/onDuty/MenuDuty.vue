@@ -1,7 +1,7 @@
 <template>
 
   <div class="menu-header">
-    <div class="left-icon" @click="goHome()">
+    <div class="left-icon" onclick="window.history.go(-1)">
       <Icon type="ios-arrow-left"></Icon>
     </div>
     <h1>今日值班</h1>
@@ -34,11 +34,6 @@
     methods: {
       getMenu: function (name) {
         console.log(name)
-      },
-      goHome: function () {
-        this.$router.push({
-          path: '/'
-        })
       }
     }
   }

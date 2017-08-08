@@ -1,0 +1,62 @@
+.system-box {
+  width: 90%;
+  margin: 70px auto 30px auto;
+  padding-bottom: 60px;
+
+  > li {
+    position: relative;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+
+    background: @color-f;
+
+    p {
+      width: 100%;
+      height: 40px;
+      line-height: 40px;
+      overflow: hidden;
+      font-size: 12px;
+    }
+    .news-icon {
+      position: absolute;
+      top: 22px;
+      right: 20px;
+      > i {
+        vertical-align: middle;
+        color: @color-success;
+      }
+    }
+  }
+}
+
+.doShare {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  width: 100%;
+  height: 100%;
+  padding-top: 50%;
+  background: @mask-b-6;
+  .share-box {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 80%;
+    padding: 20px 0;
+    margin-top: -75px;
+    background: @color-f;
+    > .img-box {
+      width: 33%;
+      float: left;
+      > img {
+        width: 70%;
+        margin: 0 auto;
+      }
+      &:nth-child(1) img {
+        width: 50%;
+        margin-top: 10px;
+      }
+    }
+  }
+}

@@ -12,6 +12,12 @@ import Login from '../components/login/Login'
 import OnDuty from '../components/onDuty/OnDuty'
 // 维修资质
 import Repair from '../components/repair/Repair'
+// 消息列表
+import News from '../components/news/News'
+// 内容页面
+import Content from '../components/content/Content'
+// 制度表格
+import System from '../components/system/System'
 
 Vue.use(Iview)
 Vue.use(Router)
@@ -41,6 +47,24 @@ export default new Router({
       path: '/repair.html',
       name: 'Repair',
       component: Repair
+    },
+    {
+      // 消息列表
+      path: '/news.html',
+      name: 'News',
+      component: News
+    },
+    {
+      // 内容页面
+      path: '/content.html',
+      name: 'Content',
+      component: Content
+    },
+    {
+      // 制度表格
+      path: '/system.html',
+      name: 'System',
+      component: System
     }
   ]
 })

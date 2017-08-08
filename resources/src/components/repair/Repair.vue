@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="menu-header">
-      <div class="left-icon" @click="goHome()">
+      <div class="left-icon" onclick="window.history.go(-1)">
         <Icon type="ios-arrow-left"></Icon>
       </div>
       <h1>维修资质</h1>
@@ -40,13 +40,6 @@
         console.log('data', data.repair)
         this.repairData = data.repair
       })
-    },
-    methods: {
-      goHome: function () {
-        this.$router.push({
-          path: '/'
-        })
-      }
     }
   }
 </script>

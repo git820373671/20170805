@@ -1,0 +1,20 @@
+{
+  "code": "1",
+  "result": {
+    "success": true,
+    "system": [
+      {
+        "id": "001",
+        "title": "PE值班"
+      },
+      {
+        "id": "002",
+        "title": "PE值班"
+      },
+      {
+        "id": "003",
+        "title": "PE值班"
+      }
+    ]
+  }
+}

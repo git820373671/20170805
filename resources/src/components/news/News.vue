@@ -1,13 +1,21 @@
 <template>
   <div>
     <div class="menu-header">
-      <div class="left-icon" @click="goHome()">
+      <div class="left-icon" onclick="window.history.go(-1)">
         <Icon type="ios-arrow-left"></Icon>
       </div>
       <h1>消息列表</h1>
     </div>
-    <ul class="repair-box">
-      <li>姓名：<span>{{repairData.name}}</span></li>
+    <ul class="news-box">
+      <li v-for="item in newsData">
+        <router-link :to="{name:'Content', params: {id:'item.id'}}">
+          <h3>{{item.title}}</h3>
+          <p>{{item.info}}</p>
+          <div class="news-icon">
+            <Icon type="ios-arrow-right"></Icon>
+          </div>
+        </router-link>
+      </li>
     </ul>
 
   </div>
@@ -18,23 +26,21 @@
     name: 'onDuty',
     data: function () {
       return {
-        repairData: {}
+        newsData: []
       }
     },
     created: function () {
-      var url = '/static/data/repair.json'
+      var url = '/static/data/news.json'
       var prams = {}
       this.$ajax_get(url, prams, function (data) {
         if (!data.success) return
-        console.log('data', data.repair)
-        this.repairData = data.repair
+        console.log('data', data.news)
+        this.newsData = data.news
       })
     },
     methods: {
-      goHome: function () {
-        this.$router.push({
-          path: '/'
-        })
+      goInfo: function (id) {
+        console.log('id', id)
       }
     }
   }

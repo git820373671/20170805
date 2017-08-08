@@ -44,12 +44,25 @@ img {
   margin-right: 20px;
 }
 
+.m-l-20 {
+  margin-left: 20px;
+}
+
 .img-box {
   width: 100%;
   > img {
     display: block;
     width: 100%;
   }
+}
+
+.bg-f {
+  background: @color-f
+
+}
+
+.h100 {
+  height: 100%
 }
 
 .menu-header {
@@ -94,8 +107,26 @@ img {
   }
 }
 
+.content {
+  padding: 70px 30px;
+  > h2 {
+    width: 80%;
+    margin: 0 auto 20px auto;
+    font-size: 18px;
+    color: @color-success;
+    line-height: 35px;
+    text-align: center;
+  }
+  > .content-info > p {
+    line-height: 25px;
+
+    padding: 0 0 20px 0;
+  }
+}
+
 @import "login";
 @import "index";
 @import "duty";
 @import "repair";
 @import "news";
+@import "system";
