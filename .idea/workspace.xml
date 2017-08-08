@@ -1,335 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7cb8db3-d7c3-4f8e-b511-3d090996d0c4" name="Default" comment="app 首页">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/styles/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/styles/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/styles/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/iview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/iview.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/locale/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/styles/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/dist/styles/iview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/affix/affix.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/affix/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/alert/alert.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/alert/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/back-top/back-top.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/back-top/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/badge/badge.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/badge/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/collapse-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/notification/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/notification/notice.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/notification/notification.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/base/render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/breadcrumb/breadcrumb-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/breadcrumb/breadcrumb.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/breadcrumb/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/button/button-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/button/button.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/button/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/card/card.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/card/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/carousel/carousel-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/carousel/carousel.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/carousel/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/cascader/cascader.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/cascader/casitem.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/cascader/caspanel.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/cascader/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/checkbox/checkbox-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/checkbox/checkbox.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/checkbox/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/circle/circle.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/circle/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/collapse/collapse.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/collapse/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/collapse/panel.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/base/confirm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/base/date-table.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/base/month-table.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/base/time-spinner.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/base/year-table.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/panel/date-range.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/panel/date.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/panel/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/panel/time-range.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/panel/time.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/picker.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/picker/date-picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/picker/time-picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/time-mixins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/date-picker/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/dropdown/dropdown-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/dropdown/dropdown-menu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/dropdown/dropdown.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/dropdown/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/form/form-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/form/form.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/form/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/grid/col.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/grid/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/grid/row.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/icon/icon.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/icon/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/input-number/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/input-number/input-number.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/input/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/input/input.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/loading-bar/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/loading-bar/loading-bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/loading-bar/loading-bar.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/menu/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/menu/menu-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/menu/menu-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/menu/menu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/menu/submenu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/message/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/modal/confirm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/modal/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/modal/modal.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/notice/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/page/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/page/options.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/page/page.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/poptip/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/poptip/poptip.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/progress/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/progress/progress.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/radio/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/radio/radio-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/radio/radio.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/rate/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/rate/rate.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/select/dropdown.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/select/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/select/option-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/select/option.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/select/select.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/slider/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/slider/slider.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/spin/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/spin/spin.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/steps/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/steps/step.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/steps/steps.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/switch/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/switch/switch.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/cell.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/expand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/export-csv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/table-body.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/table-head.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/table-tr.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/table/table.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tabs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tabs/pane.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tabs/tabs.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tag/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tag/tag.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/time-picker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/timeline/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/timeline/timeline-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/timeline/timeline.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tooltip/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tooltip/tooltip.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/transfer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/transfer/list.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/transfer/operation.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/transfer/search.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/transfer/transfer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tree/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tree/node.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/tree/tree.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/upload/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/upload/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/upload/upload-list.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/components/upload/upload.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/directives/clickoutside.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/directives/transfer-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/locale/lang/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/mixins/emitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/mixins/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/animation/ease.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/animation/fade.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/animation/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/animation/move.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/animation/slide.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/article.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/_ionicons-font.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/_ionicons-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/_ionicons-variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/iconfont/ionicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/common/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/affix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/alert.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/back-top.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/badge.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/button.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/card.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/cascader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/checkbox.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/circle.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/collapse.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/date-picker.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/dropdown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/form.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/input-number.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/input.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/loading-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/menu.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/message.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/modal.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/notice.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/page.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/poptip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/progress.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/radio.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/rate.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/select-dropdown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/slider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/spin.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/steps.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/switch.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/table.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/tabs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/tag.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/time-picker.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/timeline.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/transfer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/tree.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/components/upload.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/copyright.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/custom.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/breadcrumb.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/button.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/caret.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/checkbox.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/common.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/content.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/input.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/loading.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/mask.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/styles/mixins/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/utils/assist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/utils/calcTextareaHeight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/utils/csv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/utils/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/iview/src/utils/dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/test/stringify_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/legacy-streams.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" />
+    <list default="true" id="305303cb-3044-4ac3-936a-1e6e569de53c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/package-lock.json" afterPath="$PROJECT_DIR$/resources/package-lock.json" />
     </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -339,48 +21,102 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Repair.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/src/components/repair/Repair.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="News.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/src/components/news/News.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repair.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/static/data/repair.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/src/assets/css/news.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/src/assets/css/color.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newIview.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="85" column="19" lean-forward="true" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue File" />
         <option value="less File" />
-        <option value="tsconfig.json" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>main</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branches0.01" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/gulpfile.js" />
-        <option value="$PROJECT_DIR$/resources/src/components/common/MainVue.vue" />
-        <option value="$PROJECT_DIR$/resources/index.html" />
-        <option value="$PROJECT_DIR$/resources/src/router/index.js" />
-        <option value="$PROJECT_DIR$/resources/static/data/login.json" />
-        <option value="$PROJECT_DIR$/resources/src/assets/script/layout.js" />
-        <option value="$PROJECT_DIR$/resources/package.json" />
-        <option value="$PROJECT_DIR$/resources/src/components/login/Login.vue" />
-        <option value="$PROJECT_DIR$/resources/src/assets/css/color.less" />
-        <option value="$PROJECT_DIR$/resources/src/assets/css/login.less" />
-        <option value="$PROJECT_DIR$/resources/src/assets/css/index.less" />
-        <option value="$PROJECT_DIR$/resources/src/components/index/Index.vue" />
-        <option value="$PROJECT_DIR$/resources/src/components/common/MenuVue.vue" />
-        <option value="$PROJECT_DIR$/resources/src/assets/css/newIview.less" />
+        <option value="$PROJECT_DIR$/resources/static/data/duty.json" />
+        <option value="$PROJECT_DIR$/resources/src/assets/css/duty.less" />
+        <option value="$PROJECT_DIR$/node_modules/iview/src/components/dropdown/dropdown.vue" />
+        <option value="$PROJECT_DIR$/resources/src/components/onDuty/OnDuty.vue" />
         <option value="$PROJECT_DIR$/resources/src/components/onDuty/MenuDuty.vue" />
+        <option value="$PROJECT_DIR$/resources/src/components/repair/MenuRepair.vue" />
+        <option value="$PROJECT_DIR$/resources/src/components/repair/repair.vue" />
+        <option value="$PROJECT_DIR$/resources/src/router/index.js" />
+        <option value="$PROJECT_DIR$/resources/src/components/index/Index.vue" />
+        <option value="$PROJECT_DIR$/resources/src/assets/css/color.less" />
+        <option value="$PROJECT_DIR$/resources/src/assets/css/repair.less" />
+        <option value="$PROJECT_DIR$/resources/src/components/repair/Repair.vue" />
+        <option value="$PROJECT_DIR$/resources/static/data/repair.json" />
+        <option value="$PROJECT_DIR$/resources/src/components/news/News.vue" />
+        <option value="$PROJECT_DIR$/resources/src/assets/css/newIview.less" />
       </list>
     </option>
   </component>
@@ -426,6 +162,28 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSHint</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -455,32 +213,496 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onDuty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20170805" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files/nodejs/node_modules" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
-    <property name="js.buildTools.gulp.gulp_package_dir" value="F:\gitHup\Youth-Post\node_modules\gulp" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
-    <property name="JavaScriptPreferStrict" value="false" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
-    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/gulp" />
+    <property name="node.js.path.for.package.jscs" value="D:/Program Files/nodejs/node" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.selected.package.jscs" value="" />
-    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="node.js.path.for.package.eslint" value="D:/Program Files/nodejs/node" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="F:\TAOBAO\20170805\resources\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="F:\pack\20170805\resources\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="D:/Program Files/nodejs/node" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="F:\pack\20170805\resources\node_modules\eslint" />
+    <property name="standardjs.codestyle.accepted" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\gitHup\Youth-Post\resources\src\components\onDuty" />
-      <recent name="F:\gitHup\Youth-Post\resources\src\assets\images" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pack\20170805\resources\static\data\img" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pack\20170805\resources\src\assets\css" />
+      <recent name="F:\pack\20170805\resources\src\components\news" />
+      <recent name="F:\pack\20170805\resources\static\data" />
+      <recent name="F:\pack\20170805\resources\src\components\repair" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resources/src/components/index/Index.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resources/src/components/onDuty/MenuDuty.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resources/src/components/onDuty/OnDuty.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resources/src/router/index.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -496,7 +718,7 @@
   </component>
   <component name="RunManager">
     <configuration default="false" name="autoCss" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
-      <node-interpreter>project</node-interpreter>
+      <node-interpreter>D:/Program Files/nodejs/node</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/resources/gulpfile.js</gulpfile>
       <tasks>
@@ -507,7 +729,7 @@
       <method />
     </configuration>
     <configuration default="false" name="createdCss" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
-      <node-interpreter>project</node-interpreter>
+      <node-interpreter>D:/Program Files/nodejs/node</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/resources/gulpfile.js</gulpfile>
       <tasks>
@@ -555,7 +777,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
+      <node-interpreter>D:/Program Files/nodejs/node</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -589,8 +811,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Gulp.js.autoCss" />
-        <item index="1" class="java.lang.String" itemvalue="Gulp.js.createdCss" />
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.createdCss" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.autoCss" />
       </list>
     </recent_temporary>
   </component>
@@ -599,130 +821,68 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7cb8db3-d7c3-4f8e-b511-3d090996d0c4" name="Default" comment="" />
-      <created>1501637095917</created>
+      <changelist id="305303cb-3044-4ac3-936a-1e6e569de53c" name="Default" comment="" />
+      <created>1502016650634</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1501637095917</updated>
-      <workItem from="1501637097054" duration="152000" />
-      <workItem from="1501637264618" duration="1821000" />
-      <workItem from="1501639381253" duration="12000" />
-      <workItem from="1502066943640" duration="1876000" />
-      <workItem from="1502068871960" duration="4091000" />
-      <workItem from="1502077041618" duration="8867000" />
-      <workItem from="1502088551918" duration="2703000" />
-      <workItem from="1502092780597" duration="1948000" />
-      <workItem from="1502095627324" duration="207000" />
+      <updated>1502016650634</updated>
+      <workItem from="1502016651952" duration="1216000" />
+      <workItem from="1502018712016" duration="1573000" />
+      <workItem from="1502096407828" duration="57000" />
+      <workItem from="1502096489211" duration="464000" />
+      <workItem from="1502150146563" duration="15238000" />
     </task>
-    <task id="LOCAL-00001" summary="登录界面">
-      <created>1502071644204</created>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1502016704964</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1502071644204</updated>
+      <updated>1502016704964</updated>
     </task>
-    <task id="LOCAL-00002" summary="app 首页">
-      <created>1502088892657</created>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1502020817805</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1502088892657</updated>
+      <updated>1502020817805</updated>
     </task>
-    <task id="LOCAL-00003" summary="app 首页">
-      <created>1502092607875</created>
+    <task id="LOCAL-00003" summary="提交">
+      <created>1502020875405</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1502092607875</updated>
+      <updated>1502020875405</updated>
     </task>
-    <task id="LOCAL-00004" summary="app 首页">
-      <created>1502092965669</created>
+    <task id="LOCAL-00004" summary="提交新页面">
+      <created>1502169807255</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1502092965669</updated>
+      <updated>1502169807255</updated>
     </task>
-    <task id="LOCAL-00005" summary="app 首页">
-      <created>1502093326515</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093326515</updated>
-    </task>
-    <task id="LOCAL-00006" summary="app 首页">
-      <created>1502093541527</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093541527</updated>
-    </task>
-    <task id="LOCAL-00007" summary="app 首页">
-      <created>1502093623555</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093623555</updated>
-    </task>
-    <task id="LOCAL-00008" summary="app 首页">
-      <created>1502093699793</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093699793</updated>
-    </task>
-    <task id="LOCAL-00009" summary="app 首页">
-      <created>1502093781165</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093781165</updated>
-    </task>
-    <task id="LOCAL-00010" summary="app 首页">
-      <created>1502093853894</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1502093853894</updated>
-    </task>
-    <task id="LOCAL-00011" summary="app 首页">
-      <created>1502094295726</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1502094295726</updated>
-    </task>
-    <task id="LOCAL-00012" summary="app 首页">
-      <created>1502095853005</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1502095853005</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21677000" />
+    <option name="totallyTimeSpent" value="18548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.3376206" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.66237944" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22391991" sideWeight="0.32741934" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22391991" sideWeight="0.67258066" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35861322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.4945055" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29252437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -735,183 +895,185 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="登录界面" />
-    <MESSAGE value="app 首页" />
-    <option name="LAST_COMMIT_MESSAGE" value="app 首页" />
+    <MESSAGE value="提交" />
+    <MESSAGE value="提交新页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新页面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/src/components/login/Login.vue">
+    <entry file="file://$PROJECT_DIR$/resource/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/resource/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/resource/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/resources/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/script/layout.js">
+    <entry file="file://$PROJECT_DIR$/resources/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="288">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/data/login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/login.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/components/login/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/resources/static/data/duty.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/components/common/HeaderVue.vue" />
-    <entry file="file://$PROJECT_DIR$/resources/src/components/common/MainVue.vue" />
-    <entry file="file://$PROJECT_DIR$/resources/config/index.js">
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/duty.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="185">
+          <caret line="56" column="16" lean-forward="false" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding>
+            <element signature="e#10#981#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/index.html">
+    <entry file="file://$PROJECT_DIR$/resources/dist/static/js/vendor.6bb317035f0e47bca810.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="197">
+          <caret line="5" column="60991" lean-forward="false" selection-start-line="5" selection-start-column="60991" selection-end-line="5" selection-end-column="60991" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/package.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/iview/dist/iview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="81" column="38" lean-forward="true" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        <state relative-caret-position="197">
+          <caret line="10885" column="8" lean-forward="false" selection-start-line="10885" selection-start-column="8" selection-end-line="10885" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/iview/src/components/dropdown/dropdown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="125" column="26" lean-forward="true" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/src/components/login/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/data/login.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/login.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/script/layout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/color.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="294">
+          <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/src/components/onDuty/OnDuty.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/components/index/Index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/src/components/common/MenuVue.vue" />
-    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        <state relative-caret-position="42">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/src/components/onDuty/MenuDuty.vue">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/components/repair/MenuRepair.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/components/index/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/color.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/components/news/News.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/repair.less">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/data/repair.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/components/repair/Repair.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/src/assets/css/newIview.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="85" column="19" lean-forward="true" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
