@@ -7,7 +7,7 @@
       <h1>消息列表</h1>
     </div>
     <ul class="news-box">
-      <li v-for="item in newsData">
+      <li v-for="item in newsData" :key="item.id">
         <router-link :to="{name:'Content', params: {id:'item.id'}}">
           <h3>{{item.title}}</h3>
           <p>{{item.info}}</p>

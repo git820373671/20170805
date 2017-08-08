@@ -1,0 +1,20 @@
+{
+  "code": "1",
+  "result": {
+    "success": true,
+    "menu": [
+      {
+        "text": "掌上学习",
+        "name": "1"
+      },
+      {
+        "text": "掌上学习",
+        "name": "2"
+      },
+      {
+        "text": "部门发文",
+        "name": "3"
+      }
+    ]
+  }
+}

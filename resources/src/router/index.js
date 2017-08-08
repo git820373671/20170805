@@ -18,7 +18,10 @@ import News from '../components/news/News'
 import Content from '../components/content/Content'
 // 制度表格
 import System from '../components/system/System'
-
+// 部门发文
+import File from '../components/file/File'
+// 掌上学习
+import Study from '../components/study/Study'
 Vue.use(Iview)
 Vue.use(Router)
 Vue.use(Resource)
@@ -65,6 +68,18 @@ export default new Router({
       path: '/system.html',
       name: 'System',
       component: System
+    },
+    {
+      // 部门发文
+      path: '/file.html',
+      name: 'File',
+      component: File
+    },
+    {
+      // 掌上学习
+      path: '/study.html',
+      name: 'Study',
+      component: Study
     }
   ]
 })

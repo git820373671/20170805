@@ -27,19 +27,24 @@
           </router-link>
           </Col>
           <Col span="8">
-          <div class="img-box">
-            <img src="../../assets/images/icon3.jpg"/>
-          </div>
-          <p>掌上学习</p></Col>
+          <router-link :to="'/study.html'">
+            <div class="img-box">
+              <img src="../../assets/images/icon3.jpg"/>
+            </div>
+            <p>掌上学习</p>
+          </router-link>
+          </Col>
         </Row>
       </div>
       <div class="main-bottom">
         <Row :gutter="20">
           <Col span="12">
-          <div class="img-box">
-            <img src="../../assets/images/icon4.jpg"/>
-          </div>
-          <p>部门发文</p>
+          <router-link :to="'/file.html'">
+            <div class="img-box">
+              <img src="../../assets/images/icon4.jpg"/>
+            </div>
+            <p>部门发文</p>
+          </router-link>
           </Col>
           <Col span="12">
           <router-link :to="'/system.html'">
@@ -57,7 +62,9 @@
         <img src="../../assets/images/footBg.png"/></div>
       <ul class="menu">
         <li class="menu1">通讯录</li>
-        <li class="menu2s">首页</li>
+        <li class="menu2s">
+          <router-link :to="'/'">首页</router-link>
+        </li>
         <li class="menu3s">我的</li>
       </ul>
     </div>

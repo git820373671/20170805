@@ -7,7 +7,7 @@
       <h1>制度表格</h1>
     </div>
     <ul class="system-box">
-      <li @click="goShare(item.id)" v-for="item in systemData"><p>{{item.title}}</p>
+      <li @click="goShare(item.id)" v-for="item in systemData" :key="item.id"><p>{{item.title}}</p>
         <div class="news-icon">
           <Icon type="android-share-alt" size="22"></Icon>
           <Icon type="ios-arrow-right" size="28" class="m-l-20"></Icon>
