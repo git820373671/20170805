@@ -79,7 +79,7 @@
     },
     created: function () {
       var getW = document.body.clientWidth
-      this.styleH = getW * 1.15
+      this.styleH = getW
       var url = '/static/data/study.json'
       var prams = {}
       this.$ajax_get(url, prams, function (data) {
