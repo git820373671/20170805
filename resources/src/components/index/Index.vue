@@ -60,7 +60,7 @@
     <div class="foot">
 
       <ul class="menu">
-        <li class="menu1s">通讯录</li>
+        <li class="menu1s"><router-link :to="'/telList/all.html'">通讯录</router-link></li>
         <li class="menu2">
           <router-link :to="'/'">首页</router-link>
         </li>

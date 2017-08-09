@@ -5,11 +5,13 @@
     </div>
     <div class="user-box">
       <router-link :to="'/user/password.html'"><p>修改密码</p></router-link>
-      <router-link :to="'/user/version.html'"> <p>检查更新</p></router-link>
+      <router-link :to="'/user/version.html'"><p>检查更新</p></router-link>
     </div>
     <div class="foot">
       <ul class="menu">
-        <li class="menu1s">通讯录</li>
+        <li class="menu1s">
+          <router-link :to="'/telList/all.html'">通讯录</router-link>
+        </li>
         <li class="menu2s">
           <router-link :to="'/'">首页</router-link>
         </li>
