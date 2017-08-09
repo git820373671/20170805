@@ -1,28 +1,24 @@
 <template>
-  <div>
+  <div class="bg-f h100">
     <div class="menu-header">
       <div class="left-icon" onclick="window.history.go(-1)">
         <Icon type="ios-arrow-left"></Icon>
       </div>
-      <h1>消息列表</h1>
+      <h1>检查更新</h1>
     </div>
-    <ul class="news-box">
-      <li v-for="item in newsData" :key="item.id">
-        <router-link :to="{name:'Content', params: {id:'item.id'}}">
-          <h3>{{item.title}}</h3>
-          <p>{{item.info}}</p>
-          <div class="news-icon">
-            <Icon type="ios-arrow-right"></Icon>
-          </div>
-        </router-link>
-      </li>
-    </ul>
-
+    <div class="version-box">
+      <div class="img-box"><img src="../../assets/images/logo.png"/></div>
+      <p>航维云</p>
+      <p>V1.12</p>
+      <div class="btn" style="display: none">暂无版本</div>
+      <div class="btn text-success">更新</div>
+    </div>
   </div>
 </template>
 <script>
 
   export default {
+    name: 'onDuty',
     data: function () {
       return {
         newsData: []

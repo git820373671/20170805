@@ -58,15 +58,18 @@
       </div>
     </div>
     <div class="foot">
-      <div class="img-box">
-        <img src="../../assets/images/footBg.png"/></div>
+
       <ul class="menu">
-        <li class="menu1">通讯录</li>
-        <li class="menu2s">
+        <li class="menu1s">通讯录</li>
+        <li class="menu2">
           <router-link :to="'/'">首页</router-link>
         </li>
-        <li class="menu3s">我的</li>
+        <li class="menu3s">
+          <router-link :to="'/user.html'">我的</router-link>
+        </li>
       </ul>
+      <div class="img-box">
+        <img src="../../assets/images/footBg.png"/></div>
     </div>
   </div>
 </template>

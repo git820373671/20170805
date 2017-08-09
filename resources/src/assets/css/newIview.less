@@ -61,8 +61,69 @@ img {
 
 }
 
+.text-success {
+  color: @color-success !important;
+}
+
 .h100 {
   height: 100%
+}
+
+.foot {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  .menu {
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    margin-left: -40%;
+    width: 80%;
+
+    li {
+      display: block;
+      float: left;
+      width: 20%;
+      height: 50px;
+      text-indent: -999em;
+      a {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      &.menu1 {
+        background: url("../images/menu1.png") center no-repeat;
+        background-size: 100%;
+      }
+      &.menu1s {
+        background: url("../images/menu1s.png") center no-repeat;
+        background-size: 100%;
+      }
+      &.menu2 {
+        background: url("../images/menu2.png") center no-repeat;
+        background-size: 60%;
+      }
+      &.menu2s {
+        background: url("../images/menu2s.png") center no-repeat;
+        background-size: 60%;
+      }
+      &.menu3 {
+        background: url("../images/menu3.png") center no-repeat;
+        background-size: 100%;
+      }
+      &.menu3s {
+        background: url("../images/menu3s.png") center no-repeat;
+        background-size: 100%;
+      }
+      &:nth-child(2) {
+        margin: 0 20%;
+      }
+
+    }
+
+  }
+
 }
 
 .menu-header {
@@ -96,6 +157,8 @@ img {
     text-align: center;
   }
   > .right-icon {
+    position: relative;
+    z-index: 9;
     display: block;
     float: right;
     width: 50px;
@@ -193,3 +256,4 @@ img {
 @import "system";
 @import "file";
 @import "study";
+@import "user";

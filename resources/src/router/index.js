@@ -22,6 +22,12 @@ import System from '../components/system/System'
 import File from '../components/file/File'
 // 掌上学习
 import Study from '../components/study/Study'
+// 我的
+import MyList from '../components/user/List'
+// 修改密码
+import Password from '../components/user/password'
+// 检查版本
+import Version from '../components/user/version'
 Vue.use(Iview)
 Vue.use(Router)
 Vue.use(Resource)
@@ -80,6 +86,24 @@ export default new Router({
       path: '/study.html',
       name: 'Study',
       component: Study
+    },
+    {
+      // 我的
+      path: '/user.html',
+      name: 'MyList',
+      component: MyList
+    },
+    {
+      // 修改密码
+      path: '/user/password.html',
+      name: 'Password',
+      component: Password
+    },
+    {
+      // 检查版本
+      path: '/user/version.html',
+      name: 'Version',
+      component: Version
     }
   ]
 })
