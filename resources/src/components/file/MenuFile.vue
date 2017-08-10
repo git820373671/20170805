@@ -46,8 +46,7 @@
       })
     },
     methods: {
-      getMenu: function (name) {
-        console.log(name)
+      getMenu: function (e) {
       },
       doShow: function () {
         this.isShow = true

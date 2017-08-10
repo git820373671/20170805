@@ -1,6 +1,30 @@
 <template>
   <div>
-    <menu-duty></menu-duty>
+    <div class="menu-header">
+      <div class="left-icon" onclick="window.history.go(-1)">
+        <Icon type="ios-arrow-left"></Icon>
+      </div>
+      <h1>今日值班</h1>
+      <div class="right-icon">
+        <Menu theme="light" width="100px">
+          <Submenu name="1">
+            <template slot="title">
+              <Icon type="navicon"></Icon>
+            </template>
+            <Menu-item name="1-1">全部</Menu-item>
+            <Menu-item name="1-2">公司01</Menu-item>
+            <Menu-item name="1-3">机务01</Menu-item>
+            <Menu-item name="1-1">航班值班</Menu-item>
+            <Menu-item name="1-1">MCC值班</Menu-item>
+            <Menu-item name="1-1">PE值班</Menu-item>
+            <Menu-item name="1-1">质量值班</Menu-item>
+            <Menu-item name="1-1">航材值班</Menu-item>
+            <Menu-item name="1-1">工程值班</Menu-item>
+            <Menu-item name="1-1">车队司机</Menu-item>
+          </Submenu>
+        </Menu>
+      </div>
+    </div>
     <ul class="duty-box">
       <li v-for="item in dutyData" v-bind:class="item.state">
         <h5>岗位：{{item.post}}</h5>
@@ -19,6 +43,7 @@
       <p class="do-tel-icon" @click="goTel(tel)"><img src="../../assets/images/tel2.png"/></p>
       <p class="do-tel-icon" @click="goPhone(phone)"><img src="../../assets/images/phone2.png"/></p>
     </div>
+
   </div>
 </template>
 <script>

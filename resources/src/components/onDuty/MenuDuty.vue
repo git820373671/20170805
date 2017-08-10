@@ -6,10 +6,10 @@
     </div>
     <h1>今日值班</h1>
     <div class="right-icon">
-      <Dropdown trigger="click" @on-click='getMenu()' placement="bottom-end">
+      <Dropdown trigger="click"  @on-click="getMenu()"placement="bottom-end">
         <Icon type="navicon"></Icon>
         <Dropdown-menu slot="list">
-          <Dropdown-item name='1'>全部</Dropdown-item>
+          <Dropdown-item name='1' selected>全部</Dropdown-item>
           <Dropdown-item name='2'> 公司01</Dropdown-item>
           <Dropdown-item name="3"> 机务01</Dropdown-item>
           <Dropdown-item name="4"> 航班值班</Dropdown-item>
@@ -32,8 +32,8 @@
       return {}
     },
     methods: {
-      getMenu: function (name) {
-        console.log(name)
+      getMenu: function (e) {
+        console.log(this, arguments, e)
       }
     }
   }

@@ -161,11 +161,29 @@ img {
     z-index: 9;
     display: block;
     float: right;
-    width: 50px;
-    text-align: center;
+    width: 100px;
+    text-align: right;
     font-size: 28px;
-    ul {
-      text-align: left;
+    .menu-header > .right-icon ul > li {
+      position: relative;
+    }
+    .ivu-menu-vertical .ivu-menu-item, .ivu-menu-vertical .ivu-menu-submenu-title {
+      padding: 5px 20px 0 0;
+      height: 45px;
+      i {
+        font-size: 32px;
+        margin: 0;
+      }
+    }
+    .ivu-menu-vertical .ivu-menu-submenu-title-icon {
+      display: none;
+    }
+    .ivu-menu-submenu-title {
+      background: @color-f;
+    }
+    .ivu-menu {
+
+      background: #fff;
     }
   }
   > .search-icon {

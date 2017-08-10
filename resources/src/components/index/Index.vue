@@ -1,6 +1,6 @@
 <template>
   <div class="index">
-    <div class="header img-box"><img src="../../assets/images/indexBg.jpg"/>
+    <div class="header img-box"><img src="../../assets/images/indexBg.png"/>
       <router-link :to="'/news.html'">
         <div class="tips">
           <Badge count="10" overflow-count="99"></Badge>
@@ -13,7 +13,7 @@
           <Col span="8">
           <router-link :to="'/onDuty.html'">
             <div class="img-box">
-              <img src="../../assets/images/icon1.jpg"/>
+              <img src="../../assets/images/icon1.png"/>
             </div>
             <p>今日值班</p>
           </router-link>
@@ -21,7 +21,7 @@
           <Col span="8">
           <router-link :to="'/repair.html'">
             <div class="img-box">
-              <img src="../../assets/images/icon2.jpg"/>
+              <img src="../../assets/images/icon2.png"/>
             </div>
             <p>维修资质</p>
           </router-link>
@@ -29,7 +29,7 @@
           <Col span="8">
           <router-link :to="'/study.html'">
             <div class="img-box">
-              <img src="../../assets/images/icon3.jpg"/>
+              <img src="../../assets/images/icon3.png"/>
             </div>
             <p>掌上学习</p>
           </router-link>
@@ -41,7 +41,7 @@
           <Col span="12">
           <router-link :to="'/file.html'">
             <div class="img-box">
-              <img src="../../assets/images/icon4.jpg"/>
+              <img src="../../assets/images/icon4.png"/>
             </div>
             <p>部门发文</p>
           </router-link>
@@ -49,7 +49,7 @@
           <Col span="12">
           <router-link :to="'/system.html'">
             <div class="img-box">
-              <img src="../../assets/images/icon5.jpg"/>
+              <img src="../../assets/images/icon5.png"/>
             </div>
             <p>制度表格</p>
           </router-link>
