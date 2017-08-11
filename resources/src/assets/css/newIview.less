@@ -161,31 +161,40 @@ img {
     z-index: 9;
     display: block;
     float: right;
-    width: 100px;
-    text-align: right;
-    font-size: 28px;
-    .menu-header > .right-icon ul > li {
-      position: relative;
-    }
-    .ivu-menu-vertical .ivu-menu-item, .ivu-menu-vertical .ivu-menu-submenu-title {
-      padding: 5px 20px 0 0;
+    width: 50px;
+    .drop-btn {
+      width: 50px;
       height: 45px;
+      text-align: center;
+      font-size: 28px;
       i {
-        font-size: 32px;
-        margin: 0;
+        color: @color-6;
       }
     }
-    .ivu-menu-vertical .ivu-menu-submenu-title-icon {
-      display: none;
-    }
-    .ivu-menu-submenu-title {
+    ul {
+      position: absolute;
+      top: 55px;
+      right: 15px;
+      width: 90px;
+      height: 0;
+      padding: 0 10px;
+      overflow: hidden;
+      border-radius: 5px;
       background: @color-f;
-      box-shadow: none;
+      box-shadow: 0 0 10px @mask-b-3;
+      transition: all 0.3s;
+      &.show {
+        height: auto;
+        padding: 10px;
+      }
+      > li {
+        line-height: 30px;
+        &.selected {
+          color: @color-success;
+        }
+      }
     }
-    ul.ivu-menu {
-      background: #fff;
-      box-shadow: 0 0 10px @mask-b-3
-    }
+
   }
   > .search-icon {
     position: absolute;

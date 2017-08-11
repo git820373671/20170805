@@ -6,21 +6,22 @@
     </div>
     <h1>今日值班</h1>
     <div class="right-icon">
-      <Dropdown trigger="click"  @on-click="getMenu()"placement="bottom-end">
+      <div class="drop-btn" @click="showList()">
         <Icon type="navicon"></Icon>
-        <Dropdown-menu slot="list">
-          <Dropdown-item name='1' selected>全部</Dropdown-item>
-          <Dropdown-item name='2'> 公司01</Dropdown-item>
-          <Dropdown-item name="3"> 机务01</Dropdown-item>
-          <Dropdown-item name="4"> 航班值班</Dropdown-item>
-          <Dropdown-item name="5"> MCC值班</Dropdown-item>
-          <Dropdown-item name="6"> PE值班</Dropdown-item>
-          <Dropdown-item name="7"> 质量值班</Dropdown-item>
-          <Dropdown-item name="8"> 航材值班</Dropdown-item>
-          <Dropdown-item name="9"> 工程值班</Dropdown-item>
-          <Dropdown-item name="10"> 车队司机</Dropdown-item>
-        </Dropdown-menu>
-      </Dropdown>
+      </div>
+      <ul v-bind:class="{show:isShow}" id="dropList">
+        <li class="selected" @click="getMenu('002')" id="002">全部</li>
+        <li @click="getMenu('123')" id="123">公司01</li>
+        <li @click="getMenu('456')" id="456">机务01</li>
+        <li @click="getMenu('789')" id="789"> 航班值班</li>
+        <li @click="getMenu('166')" id="166">MCC值班</li>
+        <li @click="getMenu('106')" id="106">PE值班</li>
+        <li @click="getMenu('177')" id="177">质量值班</li>
+        <li @click="getMenu('199')" id="199"> 航材值班</li>
+        <li @click="getMenu('129')" id="129"> 工程值班</li>
+        <li @click="getMenu('153')" id="153"> 车队司机</li>
+      </ul>
+
     </div>
   </div>
 
@@ -29,11 +30,26 @@
   export default {
     name: 'Menu',
     data: function () {
-      return {}
+      return {
+        isShow: false
+      }
     },
     methods: {
-      getMenu: function (e) {
-        console.log(this, arguments, e)
+      showList: function () {
+        if (this.isShow) {
+          this.isShow = false
+        } else {
+          this.isShow = true
+        }
+      },
+      getMenu: function (id) {
+        var $el = document.getElementById('dropList').getElementsByClassName('selected')
+        var $elC = document.getElementById(id)
+        for (var i = 0; i < $el.length; i++) {
+          $el[i].setAttribute('class', '')
+        }
+        $elC.setAttribute('class', 'selected')
+        this.isShow = false
       }
     }
   }

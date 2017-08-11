@@ -5,18 +5,21 @@
       <Icon type="ios-arrow-left"></Icon>
     </div>
     <h1>掌上学习</h1>
+
     <div class="right-icon">
-      <Dropdown trigger="click" @on-click='getMenu()' placement="bottom-end">
+      <div class="drop-btn" @click="showList()">
         <Icon type="navicon"></Icon>
-        <Dropdown-menu slot="list">
-          <Dropdown-item name='1'>开始学习</Dropdown-item>
-          <Dropdown-item name='2'> 学习中</Dropdown-item>
-          <Dropdown-item name="3"> 完成</Dropdown-item>
-          <Dropdown-item name="4"> 已完成</Dropdown-item>
-          <Dropdown-item name="5"> 已截止</Dropdown-item>
-        </Dropdown-menu>
-      </Dropdown>
+      </div>
+      <ul v-bind:class="{show:isShow}" id="dropList">
+        <li class="selected" @click="getMenu('002')" id="002">开始学习</li>
+        <li @click="getMenu('123')" id="123">学习中</li>
+        <li @click="getMenu('456')" id="456">完成</li>
+        <li @click="getMenu('789')" id="789"> 已完成</li>
+        <li @click="getMenu('166')" id="166">已截止</li>
+      </ul>
+
     </div>
+
   </div>
 
 </template>
@@ -24,11 +27,26 @@
   export default {
     name: 'MenuStudy',
     data: function () {
-      return {}
+      return {
+        isShow: false
+      }
     },
     methods: {
-      getMenu: function (name) {
-        console.log(name)
+      showList: function () {
+        if (this.isShow) {
+          this.isShow = false
+        } else {
+          this.isShow = true
+        }
+      },
+      getMenu: function (id) {
+        var $el = document.getElementById('dropList').getElementsByClassName('selected')
+        var $elC = document.getElementById(id)
+        for (var i = 0; i < $el.length; i++) {
+          $el[i].setAttribute('class', '')
+        }
+        $elC.setAttribute('class', 'selected')
+        this.isShow = false
       }
     }
   }

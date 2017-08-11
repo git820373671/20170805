@@ -16,7 +16,7 @@
     </ul>
     <div class="doShare" v-if="doState">
       <div class="share-box">
-        <div class="img-box"><img src="../../assets/images/share0.jpg"/></div>
+        <div class="img-box">分享至</div>
         <div class="img-box" @click="doWx()"><img src="../../assets/images/share1.jpg"/></div>
         <div class="img-box" @click="doEm()"><img src="../../assets/images/share2.jpg"/></div>
       </div>
